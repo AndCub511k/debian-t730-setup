@@ -5,7 +5,7 @@ Créer une clé USB bootable avec Debian Server, à partir de Windows, pour l’
 
 ---
 
-## 🧰 Matériel & outils utilisés
+## Matériel & outils utilisés
 
 - PC sous Windows 10
 - Clé USB de 8 Go minimum (16 go utilisé)
@@ -23,7 +23,7 @@ Créer une clé USB bootable avec Debian Server, à partir de Windows, pour l’
 4. Formater la clé USB 
 5. Configuration de Rufus :
    - Périphérique : clé USB détectée
-   - Boot selection : ISO Debian téléchargée
+   - Boot selection : ISO Debian téléchargée 
    - Système de fichiers : FAT32
    - Schéma de partition : MBR 
    - Schéma de destination : BIOS ou UEFI
