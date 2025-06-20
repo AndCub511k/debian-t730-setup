@@ -37,3 +37,6 @@ Créer une clé USB bootable avec Debian Server, à partir de Windows, pour l’
 > 
 ```markdown
 
+![Capture de l'étape 1](Projet github/site_debian_download.png)
+![Description de la capture 2](images/capture2.jpg)
+
