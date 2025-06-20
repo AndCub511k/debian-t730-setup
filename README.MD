@@ -19,19 +19,21 @@ Créer une clé USB bootable avec Debian Server, à partir de Windows, pour l’
 
 1. Téléchargement de l’ISO Debian depuis le site officiel.
 2. Installation de **Rufus** sur Windows.
-3. Insertion de la clé USB (⚠️ formatée automatiquement).
-4. Configuration de Rufus :
+3. Insertion de la clé USB.
+4. Formater la clé USB 
+5. Configuration de Rufus :
    - Périphérique : clé USB détectée
    - Boot selection : ISO Debian téléchargée
    - Système de fichiers : FAT32
    - Schéma de partition : MBR 
    - Schéma de destination : BIOS ou UEFI
-5. Lancement de la création de la clé bootable.
-6. ✅ Clé prête à être utilisée pour l'installation.
+6. Lancement de la création de la clé bootable.
+7. ✅ Clé prête à être utilisée pour l'installation.
 
 ---
 
 ## 📸 Captures d’écran
 
 > 
+```markdown
 
