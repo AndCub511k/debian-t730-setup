@@ -36,8 +36,8 @@ Créer une clé USB bootable avec Debian Server, à partir de Windows, pour l’
 
 > ```markdown
 
-![Téléchargement de l’ISO Debian depuis le site officiel.](captures/installation.PNG)
+![Téléchargement de l’ISO Debian depuis le site officiel.](captures/site_debian_download.PNG)
 
-![Téléchargement Debian](../captures/debian-site.jpg)
+![Installation de **Rufus** sur Windows.](captures/Rufus_download)
 
 
