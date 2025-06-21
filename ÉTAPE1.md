@@ -37,6 +37,6 @@ Créer une clé USB bootable avec Debian Server, à partir de Windows, pour l’
 > 
 ```markdown
 
-![Capture de l'étape 1](AndCub511k/debian-t730-setup/projet_image/site_debian_download.PNG)
+![Capture de l'étape 1](captures/installation.PNG)
 ![Description de la capture 2](images/capture2.jpg)
 
