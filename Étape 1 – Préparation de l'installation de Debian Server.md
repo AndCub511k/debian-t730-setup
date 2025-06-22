@@ -55,6 +55,6 @@ Créer une clé USB bootable avec Debian Server, à partir de Windows, pour l’
 ![Contenu de la clé bootable.](captures/repertoire.PNG)
 
 
-
+# ➡️ [Étape suivante →](./02-installation.md)
 
 
