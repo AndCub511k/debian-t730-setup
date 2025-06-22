@@ -7,8 +7,7 @@ Démarrer le HP T730 depuis la clé USB bootable et installer Debian Server avec
 
 ## 🧰 Prérequis
 
-- ✅ Clé USB bootable créée (voir [Étape 1 – Préparation de l'installation de Debian Server](https://github.com/AndCub511k/debian-t730-setup/blob/01-prep-install-debian/%C3%89tape%201%20%E2%80%93%20Pr%C3%A9paration%20de%20l'installation%20de%20Debian%20Server.md))
-
+- ✅ Clé USB bootable créée (voir [Étape 1 – Préparation](./01-preparation.md))
 - ⚙️ BIOS prêt à booter sur USB (mode UEFI ou Legacy)
 - 🌐 Connexion Internet disponible (Ethernet recommandé)
 
