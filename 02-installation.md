@@ -92,4 +92,6 @@ Mot de passe **root** : défini
 > ```markdown
 
 ## 1. Lancement de l’installation
-> ![1. Lancement de l’installation](captures/menu_debian_installation.jpg)
+> ![Lancement de l’installation](captures/menu_debian_installation.jpg)
+
+> ![🌐 Configuration réseau](captures/menu_debian_installation.jpg)
