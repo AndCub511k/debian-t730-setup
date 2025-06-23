@@ -1,4 +1,4 @@
-# 🧱 Étape 2 – Installation de Debian via la clé bootable et configuration initiale
+# Étape 2 – Installation de Debian via la clé bootable et configuration initiale
 
 ## 🎯 Objectif
 Démarrer le HP T730 depuis la clé USB bootable et installer Debian Server avec les bons réglages de base.
@@ -92,4 +92,4 @@ Mot de passe **root** : défini
 > ```markdown
 
 ## 1. Lancement de l’installation
-> ![1. Lancement de l’installation](captures/fenêtre_debian_installation.JPG)
+> ![1. Lancement de l’installation](captures/menu_debian_installation.jpg)
