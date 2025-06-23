@@ -22,10 +22,11 @@ Je documente chaque étape du projet pour montrer ma progression et mes choix te
 
 ## 📂 Sommaire des étapes
 
-1. [Étape 1 – Préparation de l'installation](./01-preparation.md)  
+1. [Étape 1 – Préparation de l'installation de Debian Server](./01-preparation.md)  
    Création de la clé USB bootable, choix de l’image Debian, et vérification du matériel.
 
-2. [Étape 2 – Installation de Debian](./02-installation.md)  
+2. [Étape 2 – Installation de Debian via la clé bootable et configuration initiale
+](./02-installation.md)  
    Démarrage sur la clé, installation de Debian Server sans interface graphique, partitionnement, et configuration de base.
 
 3. [Étape 3 – Configuration réseau et internet](./03-reseau.md)  
