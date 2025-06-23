@@ -47,7 +47,7 @@ Au démarrage de la clé USB bootable, un menu s’affiche avec plusieurs option
 - Mot de passe **utilisateur standard** : défini  
 
 ---
-Mot de passe **root** : défini  
+
 ### 3. 💾 Partitionnement du disque
 
 - Disque sélectionné : `sda` (disque principal du HP T730)  
